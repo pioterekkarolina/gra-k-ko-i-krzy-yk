@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\karol\Desktop\zadanie domowe pp\Project1\main.cpp(721,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Project1.vcxproj -> C:\Users\karol\Desktop\zadanie domowe pp\Project1\x64\Debug\Project1.exe
