@@ -1,1 +1,6 @@
-
+$ echo x64/Debug >> .gitignore
+2  
+3$ git rm -r --cached x64/Debug
+4rm 'x64/Debug'
+5  
+6$ git commit -m "Start ignoring x64/Debug"
